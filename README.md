@@ -25,6 +25,7 @@ Our mission is to maintain a polished, stable, and enjoyable experience while ex
 - ⚡ Advanced movement options  
 - 🥽 Expanded VR settings  
 - 🚀 Quick-load maps / servers  
+- ⚡ Amazing customizable graphics settings
 - 🔮 Additional Inquisitor roles & mechanics  
 
 ---
