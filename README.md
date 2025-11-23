@@ -93,7 +93,7 @@ Beyond does **not** aim to:
 We fully support the official Sail VR developers and encourage users to do the same.
 
 ### 🪙 In-Game Currency Notice
-Currency from the official game will appear **reduced** in Beyond to maintain balance and distinguish our client from the official one.
+Currency from the official game will appear **reduced** in Beyond so any in game purchases will carry over from sail to beyond, so if you buy starcoins in sail vr you will aso get then in beyond!
 
 ---
 
